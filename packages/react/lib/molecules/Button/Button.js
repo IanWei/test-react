@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Button = () => {
-    return (React.createElement("button", null, "Click button"));
+    return React.createElement("button", null, "Click button");
 };
 
 export { Button };
