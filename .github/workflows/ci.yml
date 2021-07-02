@@ -20,4 +20,3 @@ jobs:
               run: yarn build
             - name: Automated tests
               run: yarn test
-            - name: Visual regression tests
